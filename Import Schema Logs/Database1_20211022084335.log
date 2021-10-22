@@ -1,0 +1,10 @@
+10/22/2021 8:43:35 AM	This log contains information about the import schema operation into project 'Database1' on computer 'EC2AMAZ-A680DL4' by user 'Administrator'.
+10/22/2021 8:43:36 AM	Deserializing model
+10/22/2021 8:43:48 AM	Resolving model
+10/22/2021 8:43:55 AM	Visiting imported model for types
+10/22/2021 8:44:09 AM	Scanning project for duplicate elements
+10/22/2021 8:44:10 AM	Finished duplicate element processing
+10/22/2021 8:45:17 AM	Processing extra files
+10/22/2021 8:45:17 AM	Finished importing Data-tier Application file.
+10/22/2021 8:45:17 AM	A summary of the import was saved to the following location: C:\Users\Administrator\Source\Repos\Database1\Import Schema Logs\Database1_20211022084335.log
+10/22/2021 8:45:17 AM	Click Finish to continue...
